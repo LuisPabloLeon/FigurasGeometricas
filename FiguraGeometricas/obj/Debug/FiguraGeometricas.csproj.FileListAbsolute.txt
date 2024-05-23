@@ -1,0 +1,10 @@
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\bin\Debug\FiguraGeometricas.exe.config
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\bin\Debug\FiguraGeometricas.exe
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\bin\Debug\FiguraGeometricas.pdb
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\obj\Debug\FiguraGeometricas.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\obj\Debug\FiguraGeometricas.Form1.resources
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\obj\Debug\FiguraGeometricas.Properties.Resources.resources
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\obj\Debug\FiguraGeometricas.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\obj\Debug\FiguraGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\obj\Debug\FiguraGeometricas.exe
+C:\Users\Licenciaturas\source\repos\FiguraGeometricas\obj\Debug\FiguraGeometricas.pdb
