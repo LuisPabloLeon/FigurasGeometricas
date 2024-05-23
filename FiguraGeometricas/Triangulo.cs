@@ -90,11 +90,11 @@ namespace FiguraGeometricas
         //vamos a sobreescribir el comportamiento de estos
         public override float area()
         {
-            return Base * Altura / 2;
+            return (Base * Altura) / 2;
         }
         public override float perimetro()
         {
-            return Base * Lado1 * Lado2;
+            return Base + Lado1 + Lado2;
         }
         public override float volumen()
         {
