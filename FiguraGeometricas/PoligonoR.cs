@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FiguraGeometricas
 {
-    class PoligonoR
+    class PoligonoR:Figura
     {
         //delcarar dos valores float para guardar numero de lados
         //y el apotema privados para usarse solo en esta clase
